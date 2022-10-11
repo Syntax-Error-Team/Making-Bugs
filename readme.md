@@ -61,11 +61,11 @@ $ git clone https://github.com/{Your_Username}/Making-Bugs.git
 ```
 
 > This makes a local copy of the repository in your machine.
-> Once you have cloned the `PlaylistAdda` repository in Github, move to that folder first using the change directory command on Linux, Mac, and Windows(PowerShell to be used).
+> Once you have cloned the `Making-Bugs` repository in Github, move to that folder first using the change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
 # This will change the directory to a folder Random-Joke-Generator
-$ cd PlaylistAdda
+$ cd Making-Bugs
 ```
 
 Move to this folder for all other commands.
@@ -80,7 +80,7 @@ origin  https://github.com/Your_Username/Making-Bugs.git (fetch)
 origin  https://github.com/Your_Username/Making-Bugs.git (push)
 ```
 
-Now, let's add a reference to the original [PlaylistAdda](https://github.com/VG-1/PlaylistAdda) repository using
+Now, let's add a reference to the original [Making-Bugs](https://github.com/Syntax-Error-Team/Making-Bugs) repository using
 
 ```sh
 $ git remote add upstream https://github.com/VG-1/Making-Bugs.git
@@ -126,18 +126,6 @@ $ git push origin main
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/VG-1/Making-Bugs/pulls).
-
-### How to add your playlist to the website?
-
-Follow this steps do add your playlist to the website:
-
-```sh
-#Step-1 Go to index.html
-#Step-2 Write your playlist name in the code
-#Step-3 Embed your playlist.
-#Step-4 Write a sweet message.
-#Step-5 You are done go aheaed and make your pull request.
-```
 
 ### 6. Create a new branch :bangbang:
 
@@ -185,4 +173,4 @@ Then add a title and description to your pull request that explains your preciou
 
 We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
 Please discuss it with us first by creating a new issue.
-:tada: :confetti*ball: :smiley: ***Happy Contributing**\_ :smiley: :confetti_ball: :tada:
+:tada: :confetti\*ball: :smiley: **\*Happy Contributing**\_ :smiley: :confetti_ball: :tada:
